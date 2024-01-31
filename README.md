@@ -6,7 +6,7 @@ This Data Science project aims to create a restaurant recommendation system base
 ## Objetive
 - Develop a restaurant recommendation system that suggests top restaurants based on the user's geographical location.
 
-## Tecnologías Usadas
+## Used Technology
 - `Programming Language:` Python
 - `Libraries:` Numpy, Pandas, Scikit-Learn, Folium, Geopandas
 - `Visualization:` Matplotlib, Seaborn, Plotly Express
